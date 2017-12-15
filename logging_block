@@ -16,3 +16,10 @@ call by name (a);
 a= back to name stage block
 if (a=b=c)
 then 
+{
+bouce "gateway"
+break_statement direct to roll
+roll back to save point 
+generate "savepoint"
+savepoint ("logging_block")
+hide_block
